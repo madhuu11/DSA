@@ -1,9 +1,9 @@
-package com.madhu.array;
+package main.java;
 
 import java.util.Scanner;
 
 public class ArrayProject1 {
-
+	// to find number of days above Average Temperature
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("How many days temperature : ");
